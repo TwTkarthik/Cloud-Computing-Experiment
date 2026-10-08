@@ -1,33 +1,39 @@
-# Cloud-Computing-Experiments
-Name : Sagar Nayak 
-Class : 7th C
-USN : 4SF23CS177
-Subject : Cloud Computing and Security Lab
+# Cloud Computing and Security Lab
 
-## About This Repository
-This repository contains the experiments performed as part of the Cloud Computing laboratory course. 
+**Student:** Karthik K  
+**Class:** 7th C  
+**USN:** 4SF23CS083 
 
-## About This Repository
-This repository contains all the experiments performed as part of the Cloud Computing and Security laboratory course. Each experiment has its own folder with source files, screenshots and a README describing the aim, procedure, output and result.
+## Overview
 
-## Experiment List
-|  Title   |  Folder  |
-|----------|----------|
- Cloud Lab 1 | https://github.com/Sagarnayak398/cloud-lab1.git|
- CloudSim Simulation (Day 1) | https://github.com/Sagarnayak398/cloudsim-day1.git |
- Salesforce Mail Service | https://github.com/Sagarnayak398/salesforce-DC-mail-service.git |
- Image Processing using Microsoft Azure | https://github.com/Sagarnayak398/microsoft-azure-image-Processing.git |
- Video Streaming using AWS (S3 and CloudFront) | https://github.com/Sagarnayak398/AWS-Video-Streaming.git |
- Static Web App using AWS S3 | https://github.com/Sagarnayak398/Static-web-app-using-s3-AWS.git |
- AWS EC2 Instance Creation | https://github.com/Sagarnayak398/AWS-EC2-Instance-Creation.git |
+This repository contains my practical work for the **Cloud Computing and Security Lab**. It includes the programs and experiments carried out during the laboratory sessions using different cloud platforms and simulation tools.
 
-## Tools & Technologies Used
-- Amazon Web Services (S3, CloudFront, EC2)
+The repository is organized based on the experiments performed throughout the course. The respective experiment folders contain the required files, screenshots, and other resources related to the practical work.
+
+## Laboratory Work
+
+The experiments covered during the lab include:
+
+- Cloud Computing Lab – Experiment 1
+- CloudSim-based Cloud Simulation
+- Salesforce Mail Service
+- Image Processing with Microsoft Azure
+- Video Streaming using AWS
+- Static Website Hosting using Amazon S3
+- Creating and Working with an AWS EC2 Instance
+
+## Technologies and Platforms
+
+- Amazon Web Services (AWS)
 - Microsoft Azure
 - CloudSim
 - Salesforce
 - Python
-- Git & GitHub
+- Git
+- GitHub
 
+## Learning Outcomes
+
+Through these experiments, I gained practical exposure to cloud platforms and services, including cloud storage, virtual machines, content delivery, website hosting, image processing, simulation of cloud environments, and cloud-based applications.
 
 
